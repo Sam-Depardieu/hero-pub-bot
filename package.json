@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "cli-color": "^2.0.3",
+    "discord.js": "^13.15.0",
+    "dotenv": "16.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "7.2.0",
+    "mongoose": "^6.10.4"
+  },
+  "name": "bot_tristan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
